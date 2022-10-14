@@ -1,5 +1,6 @@
 <!DOCTYPE md>
 <html>
+<head> </head>
 <body>
 <h1>Francesco Gallinaro's personal webpage</h1>
 <p>Hello! I am Francesco Gallinaro, a postdoc in the Logic group at the University of Freiburg.</p>
