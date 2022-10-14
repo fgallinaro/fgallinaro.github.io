@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 	
-      <title>Research</title>
+   
    	
 <body>
+<title>Research</title>
 <h1>What is it about?</h1>
 <p> The focus of my research is Boris Zilber's <i> Exponential-Algebraic Closedness Conjecture</i>. </p>
 <p> When people who do math ask me what it is, I say that it is a conjecture predicting that certain systems of equations involving polynomials and exponentials have solutions in the complex numbers, that the interest of the conjecture comes from from model theory because, if confirmed, it would imply that all subsets of the complex numbers that are definable using polynomials and exponentials are countable or cocountable (another conjecture due to Zilber, usually referred to as the <i>Quasiminimality Conjecture</i>) and that similar questions can be asked concerning analytic functions other than the complex exponential, for example the exponential maps of complex abelian varieties and the modular invariant <i> j </i>. </p>
