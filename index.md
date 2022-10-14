@@ -1,3 +1,4 @@
+<!DOCTYPE md>
 <html>
 <body>
 <h1>Francesco Gallinaro's personal webpage</h1>
