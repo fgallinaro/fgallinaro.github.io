@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-	<head>
+	
       <title>Research</title>
-   	</head>
+   	
 <body>
 <h1>What is it about?</h1>
 <p> The focus of my research is Boris Zilber's <i> Exponential-Algebraic Closedness Conjecture</i>. </p>
