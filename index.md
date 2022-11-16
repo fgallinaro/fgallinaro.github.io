@@ -14,5 +14,3 @@
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Germany <br> 
   <p> <b> Office</b>: Room 304 </p>
     
-</body>
-</html>
