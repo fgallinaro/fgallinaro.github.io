@@ -5,7 +5,7 @@
 
 <h2> Current Teaching </h2>
 
-<p> In the Winter semester of 2022/23 I will be running two problem sessions for the course Logik für Studierende der Informatik. More information will be available on this page in due course. </p>
+<p> In the Winter semester of 2022/23 I will am running one problem session for the course Logik für Studierende der Informatik. More information is available "<a href="https://home.mathematik.uni-freiburg.de/mildenberger/veranstaltungen/ws22/logik.html">here</a>". </p>
 	
 <h2> Past Teaching </h2>
 
