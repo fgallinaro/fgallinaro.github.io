@@ -25,7 +25,7 @@
 </ul>
 <h5> Spring term </h5>
 <ul>
-	<li> MATH 0212: Elementary Intgral Calculus (Marker) </li>
+	<li> MATH 0212: Elementary Integral Calculus (Marker) </li>
 </ul>
 <h4> 2019/20 </h4>
 <h5> Autumn term </h5>
