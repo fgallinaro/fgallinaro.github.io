@@ -5,11 +5,18 @@
 
 <h2> Current Teaching </h2>
 
-<p> In the Winter semester of 2022/23 I am running one problem session for the course Logik für Studierende der Informatik (Monday, 2pm-4pm). More information is available <a href="https://home.mathematik.uni-freiburg.de/mildenberger/veranstaltungen/ws22/logik.html">here</a>. </p>
+<p> In the Summer semester of 2022/23 I am assisting the courses Model Theory II and Recursion Theory. More information will be available here soon. </p>
 	
 <h2> Past Teaching </h2>
 
 <p> A list of my past teaching duties. </p>
+	
+<h3> Albert-Ludwigs-Universität Freiburg </h3>
+<h4> 2022/23 </h4>
+<h5> Winter semester </h5>
+<ul>
+	<li> Logik für Studierende der Informatik (Marker and tutorial assistant) </li>
+</ul>
 	
 <h3> University of Leeds </h3>
 <h4> 2021/22 </h4>
