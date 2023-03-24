@@ -5,7 +5,7 @@
 
 <h2> Current Teaching </h2>
 
-<p> In the Summer semester of 2022/23 I am assisting the courses <a href="fgallinaro.github.io/modelltheorie_2">Model Theory II</a> and Recursion Theory. More information will be available here soon. </p>
+<p> In the Summer semester of 2022/23 I am assisting the courses <a href="fgallinaro.github.io/modelltheorie_2">Model Theory II</a> and Recursion Theory. More information will be available soon. </p>
 	
 <h2> Past Teaching </h2>
 
