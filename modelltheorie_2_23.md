@@ -77,7 +77,20 @@ Mathematischen Instituts.
 
 <h2>Inhalt</h2>
 
+Der Beweis von Baldwin-Lachlan zum Satz von Morley fuhrt zum Begriff der (&omega;-)Stabilit&auml;t hin, welche im Kern zahlreicher Anwendungen der sogenannten geometrischen Modelltheorie auf die Algebra und die Zahlentheorie liegt.
+In dieser Veranstaltung werden wir den Morleyrang einfuhren, welcher f&uuml;r &omega;-stabile Theorien eine sinnvolle Dimensionsfunktion darstellt. Wir werden damit den Satz von Macintyre zeigen: Ein unendliche K&ouml;rper, dessen Theorie &omega;-stabil ist, ist algebraisch abgeschlossen.
+Hierfur m&uuml;ssen wir &omega;-stabile Gruppen sowie generische Typen und imagin&auml;re Elemente einfuhren. Unter anderem werden wir den Satz von Reineke beweisen, aus welchem folgt, dass eine zusammenh&auml;ngende ω-stabile Gruppe vom Rang 1 abelsch sein muss.
+Zum Verst&auml;ndnis der algebraischen Begriffe, welche in dieser Veranstaltung vorkommen, werden nur Teile der Vorlesung "Algebra und Zahlentheorie", aber keine weiteren fortgeschrittenen Veranstaltungen aus der Kommutativen Algebra ben&ouml;tigt.
+
 <h2>Literatur</h2>
+
+David Marker, <a href="https://katalog.ub.uni-freiburg.de/opac/RDSIndexrecord/34725036X"> Model Theory: An Introduction</a>.
+
+Amador Martin-Pizarro, <a href=" https://home.mathematik.uni-freiburg.de/pizarro/MTP7.pdf"> Groupes et Corps Stables</a>, Cours M2, Paris LMFI.
+
+Bruno Poizat, Groupes Stables, Nur Al-Mantiq Wal-Mari’fah, Villeurbanne, 1987. Englische Ubersetzung: ¨ Stable Groups, AMS, 2001.
+
+MaZiegler: <a href="https://home.mathematik.uni-freiburg.de/ziegler/skripte/modell2.pdf"> Modelltheorie II</a> Vorlesungsskript.
 
 <h2>Übungsblätter</h2>
 
