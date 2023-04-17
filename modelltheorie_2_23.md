@@ -84,13 +84,13 @@ Zum Verst&auml;ndnis der algebraischen Begriffe, welche in dieser Veranstaltung 
 
 <h2>Literatur</h2>
 
-David Marker, <a href="https://katalog.ub.uni-freiburg.de/opac/RDSIndexrecord/34725036X"> Model Theory: An Introduction</a>.
+David Marker, <a href="https://katalog.ub.uni-freiburg.de/opac/RDSIndexrecord/34725036X"> Model Theory: An Introduction</a>, Springer, 2002.
 
-Amador Martin-Pizarro, <a href=" https://home.mathematik.uni-freiburg.de/pizarro/MTP7.pdf"> Groupes et Corps Stables</a>, Cours M2, Paris LMFI.
+Amador Martin-Pizarro, <a href="https://home.mathematik.uni-freiburg.de/pizarro/MTP7.pdf"> Groupes et Corps Stables</a>, Cours M2, Paris LMFI.
 
-Bruno Poizat, Groupes Stables, Nur Al-Mantiq Wal-Mari’fah, Villeurbanne, 1987. Englische Ubersetzung: ¨ Stable Groups, AMS, 2001.
+Bruno Poizat, <a href="https://katalog.ub.uni-freiburg.de/opac/RDSIndexrecord/1631661345"> Groupes Stables </a>, Nur Al-Mantiq Wal-Mari’fah, Villeurbanne, 1987. Englische Ubersetzung: <a href="https://katalog.ub.uni-freiburg.de/opac/RDSIndexrecord/326005366"> Stable Groups</a>, AMS, 2001.
 
-MaZiegler: <a href="https://home.mathematik.uni-freiburg.de/ziegler/skripte/modell2.pdf"> Modelltheorie II</a> Vorlesungsskript.
+Martin Ziegler, <a href="https://home.mathematik.uni-freiburg.de/ziegler/skripte/modell2.pdf"> Modelltheorie II</a>, Vorlesungsskript.
 
 <h2>Übungsblätter</h2>
 
