@@ -62,12 +62,13 @@ Notwendig sind:
 Pr&uuml;fungsleistungen im Modulhandbuch zu Ihrem Studiengang.</b>
 -->
 
-<h2>Informationen zu den Übungen</h2>
+<h2>Studienleistung/Pr&uuml;fungsleistungn</h2>
 
-Die Übungsblätter erscheinen dienstags auf dieser Webseite und
-die Abgabe ist dann eine Woche später dienstags bis spätestens 15 Uhr im
-entsprechenden Briefkasten im Keller des 
-Mathematischen Instituts.
+Bitte beachten Sie die Hinweise zu Studien- und Pr&uuml;fungsleistungen im Modulhandbuch Ihres Studiengangs.
+
+Notwendig ist das Erlangen von mindestens 50 Prozent der insgesamt erreichbaren Punkte bei den schriftlich zu bearbeitenden &Uuml;bungsaufgaben.
+
+
 
 <!--
 <h2>Anmeldung/Organisatorisches</h2>
@@ -93,6 +94,8 @@ Bruno Poizat, <a href="https://katalog.ub.uni-freiburg.de/opac/RDSIndexrecord/16
 Martin Ziegler, <a href="https://home.mathematik.uni-freiburg.de/ziegler/skripte/modell2.pdf"> Modelltheorie II</a>, Vorlesungsskript.
 
 <h2>Übungsblätter</h2>
+
+Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die Abgabefrist ist der darauffolgende Montag um 14:00 Uhr. Geben Sie Ihre L&ouml;sungen bitte zu zweit im Briefkasten NUMMER im Keller des Mathematischen Instituts ab.
 
 <h2>Übungsgruppen</h2>
 
