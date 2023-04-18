@@ -99,7 +99,7 @@ Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die 
 
 <h2>Übungsgruppen</h2>
 
-Mittwoch 16-18.
+Mittwoch 16-18, SR404, Ernst-Zermelo-Str. 1.
 
 <br><br><br><br><br><br><br>
   
