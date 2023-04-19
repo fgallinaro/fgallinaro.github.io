@@ -95,7 +95,7 @@ Martin Ziegler, <a href="https://home.mathematik.uni-freiburg.de/ziegler/skripte
 
 <h2>Übungsblätter</h2>
 
-Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die Abgabefrist ist der darauffolgende Montag um 14:00 Uhr. Geben Sie Ihre L&ouml;sungen bitte zu zweit im Briefkasten NUMMER im Keller des Mathematischen Instituts ab.
+Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die Abgabefrist ist der darauffolgende Montag um 14:00 Uhr. Geben Sie Ihre L&ouml;sungen bitte zu zweit im Briefkasten 3.07 im Keller des Mathematischen Instituts ab.
 
 <h2>Übungsgruppen</h2>
 
