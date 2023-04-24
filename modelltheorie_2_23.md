@@ -105,7 +105,7 @@ Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die 
     <td>Abgabe </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt1_mt2.pdf ">Blatt 1</a> </td>
+    <td> </td>
     <td> 24.04.2023</td>
     <td> 02.05.2023 </td>
     </tr>
