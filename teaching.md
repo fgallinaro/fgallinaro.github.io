@@ -5,7 +5,7 @@
 
 <h2> Current Teaching </h2>
 
-<p> In the Summer semester of 2022/23 I am assisting the courses <a href="https://fgallinaro.github.io/modelltheorie_2_23">Modelltheorie II</a> and <a href="https://fgallinaro.github.io/rekursionstheorie_23">Rekursionstheorie</a>. More information will be available soon. </p>
+<p> In the Summer semester of 2022/23 I am assisting the courses <a href="https://fgallinaro.github.io/modelltheorie_2_23">Modelltheorie II</a> and <a href="https://home.mathematik.uni-freiburg.de/mildenberger/veranstaltungen/ss23/rekursionstheorie.html">Rekursionstheorie</a>. More information at the relevant links. </p>
 	
 <h2> Past Teaching </h2>
 
