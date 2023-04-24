@@ -97,6 +97,20 @@ Martin Ziegler, <a href="https://home.mathematik.uni-freiburg.de/ziegler/skripte
 
 Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die Abgabefrist ist der darauffolgende Montag um 14:00 Uhr. Geben Sie Ihre L&ouml;sungen bitte zu zweit im Briefkasten 3.07 im Keller des Mathematischen Instituts ab.
 
+<table cellspacing="1" cellpadding="1" border="0" width="100%" align="center">
+  <tbody>
+    <tr>
+    <td>Blatt</td>
+    <td>Ausgabe </td>
+    <td>Abgabe </td>
+    </tr>
+   <tr>
+    <td> <a href="https://fgallinaro.github.io/blatt1_mt2.pdf ">Blatt 1</a> </td>
+    <td> 24.04.2023</td>
+    <td> 02.05.2023 </td>
+    </tr>
+   </tbody>
+</table>
 <h2>Übungsgruppen</h2>
 
 Mittwoch 16-18, SR404, Ernst-Zermelo-Str. 1.
