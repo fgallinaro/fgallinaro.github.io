@@ -109,6 +109,11 @@ Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die 
     <td> 24.04.2023</td>
     <td> 02.05.2023 </td>
     </tr>
+   <tr>
+    <td> Blatt 2 </td>
+    <td> 01.05.2023</td>
+    <td> 08.05.2023 </td>
+    </tr>
    </tbody>
 </table>
 <h2>Übungsgruppen</h2>
