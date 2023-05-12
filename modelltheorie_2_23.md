@@ -44,8 +44,6 @@
 
 <h2>Aktuelles</h2>
  
-Das n&auml;chste Tutorat findet am <b>Dienstag 9. Mai</b>, 16-18 Uhr, SR404 statt.
- 
 <!--
 <h2>Studienleistung/Pr&uuml;fungsleistung</h2> 
 Notwendig sind: 
