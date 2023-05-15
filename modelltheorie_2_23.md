@@ -115,6 +115,11 @@ Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die 
     <td> 08.05.2023</td>
     <td> 15.05.2023 </td>
     </tr>
+   <tr>
+    <td> <a href="https://fgallinaro.github.io/blatt4_mt2.pdf"> Blatt 4</a> </td>
+    <td> 15.05.2023</td>
+    <td> 22.05.2023 </td>
+    </tr>
    </tbody>
 </table>
 <h2>Übungsgruppen</h2>
