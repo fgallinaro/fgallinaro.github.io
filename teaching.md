@@ -15,7 +15,7 @@
 <h4> 2022/23 </h4>
 <h5> Winter semester </h5>
 <ul>
-	<li> Logik für Studierende der Informatik (Marker and tutorial assistant) </li>
+	<li> <a href="https://home.mathematik.uni-freiburg.de/mildenberger/veranstaltungen/ws22/logik.html">Logik für Studierende der Informatik </a> (Marker and tutorial assistant) </li>
 </ul>
 	
 <h3> University of Leeds </h3>
