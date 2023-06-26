@@ -142,6 +142,11 @@ Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die 
     <td> 19.06.2023</td>
     <td> 26.06.2023 </td>
     </tr>
+   <tr>
+    <td> <a href="https://fgallinaro.github.io/blatt9_mt2.pdf"> Blatt 8</a> </td>
+    <td> 26.06.2023</td>
+    <td> 03.07.2023 </td>
+    </tr>
    </tbody>
 </table>
 <h2>Übungsgruppen</h2>
