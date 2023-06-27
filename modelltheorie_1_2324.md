@@ -1,0 +1,1 @@
+This will be the webpage for the course Modelltheorie I, that I will teach at the University of Freiburg in the Winter semester of 2023/24. More information will appear closer to the beginning of the course.
