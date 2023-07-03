@@ -44,7 +44,6 @@
 
 <h2>Aktuelles</h2>
  
- Am 06.06.2023 findet die Vorlesung ausnahmsweise im Seminarraum 127 statt!
  
 <!--
 <h2>Studienleistung/Pr&uuml;fungsleistung</h2> 
