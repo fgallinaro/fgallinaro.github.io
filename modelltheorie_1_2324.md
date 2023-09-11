@@ -31,11 +31,11 @@
 </table>
 
 
-<h2>Aktuelles</h2>
+<h2>News</h2>
  
  
 <!--
-<h2>Studienleistung/Pr&uuml;fungsleistung</h2> 
+<h2>Exams</h2> 
 Notwendig sind: 
 <ul> 
 
