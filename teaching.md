@@ -5,7 +5,7 @@
 
 <h2> Current Teaching </h2>
 
-<p> In the Summer semester of 2022/23 I am assisting the courses <a href="https://fgallinaro.github.io/modelltheorie_2_23">Modelltheorie II</a> and <a href="https://home.mathematik.uni-freiburg.de/mildenberger/veranstaltungen/ss23/rekursionstheorie.html">Rekursionstheorie</a>. More information at the relevant links. </p>
+<p> In the Winter semester of 2023/24 I will be teaching the course <a href="https://fgallinaro.github.io/modelltheorie_1_2324">Model theory</a> </p>
 	
 <h2> Past Teaching </h2>
 
@@ -16,6 +16,12 @@
 <h5> Winter semester </h5>
 <ul>
 	<li> <a href="https://home.mathematik.uni-freiburg.de/mildenberger/veranstaltungen/ws22/logik.html">Logik für Studierende der Informatik </a> (Marker and tutorial assistant) </li>
+</ul>
+
+<h5> Summer semester </h5>
+<ul>
+	<li> <a href="https://home.mathematik.uni-freiburg.de/mildenberger/veranstaltungen/ss23/rekursionstheorie.html">Rekursionstheorie</a> (Assistant) </li>
+	<li> <a href="https://fgallinaro.github.io/modelltheorie_2_23">Modelltheorie II</a> (Assistant and Tutor) </li>
 </ul>
 	
 <h3> University of Leeds </h3>
