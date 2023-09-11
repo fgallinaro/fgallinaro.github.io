@@ -5,7 +5,7 @@
 
 <h2> Current Teaching </h2>
 
-<p> In the Winter semester of 2023/24 I will be teaching the course <a href="https://fgallinaro.github.io/modelltheorie_1_2324">Model theory</a>. </p>
+<p> In the Winter semester of 2023/24 I will be teaching the course <a href="https://fgallinaro.github.io/modelltheorie_1_2324">Model theory</a>. Information on the course will appear on its webpage. </p>
 	
 <h2> Past Teaching </h2>
 
