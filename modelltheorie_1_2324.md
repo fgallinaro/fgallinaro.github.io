@@ -4,20 +4,24 @@
 <table cellspacing="1" cellpadding="1" border="0" width="100%" align="center">
   <tbody>
     <tr>
-    <td>Time and Place:</td>
-    <td>Tue-Thu 12-14, Hörsaal II (Albertstr. 23b)</td>
+    <td>Zeit und Ort </td>
+    <td>Di & Do 12-14 Uhr, Hörsaal II (Albertstr. 23b)</td>
+    </tr>
+   <tr>
+      <td>Assistenz:</td>
+      <td><a href="https://fgallinaro.github.io/" rel="noopener" target="_blank"> Dr. Francesco Gallinaro</a></td>
     </tr>
     <tr>
-    <td>Lecturer:</td>
-    <td> Dr. Francesco Gallinaro</td>
+      <td>Sprechstunde Dozent: </td>
+      <td>n. V. </td>
     </tr>
     <tr>
-    <td>Office Hours: </td>
-    <td>n. V. </td>
-    <tr>
-    <td>Email:</td>
-    <td>francesco.gallinaro@mathematik.uni-freiburg.de</td>
+      <td>E-mail</td>
+      <td>francesco.gallinaro@mathematik.uni-freiburg.de</td>
     </tr>
+    
+
+
   </tbody>
 </table>
 
