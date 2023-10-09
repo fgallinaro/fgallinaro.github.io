@@ -57,11 +57,12 @@ A theory is called $\aleph_1$-categorical if all the models of cardinality $\ale
 
 <h2>Literature</h2>
 
-1) B. Poizat: A Course in Model Theory, Springer, 2000. Available <a href="https://link.springer.com/book/10.1007/978-1-4419-8622-1">online</a>.  
-2) K. Tent, M. Ziegler: A Course in Model Theory, Cambridge University Press, 2012.
-3) M. Ziegler: <a href="http://home.mathematik.uni-freiburg.de/ziegler/skripte/modell1.pdf">Vorlesung &uuml;ber Modelltheorie</a>, online notes. 
+<ul>
+ <li> B. Poizat: A Course in Model Theory, Springer, 2000. Available <a href="https://link.springer.com/book/10.1007/978-1-4419-8622-1">online</a>.</li>
+ <li> K. Tent, M. Ziegler: A Course in Model Theory, Cambridge University Press, 2012. </li>
+ <li> M. Ziegler: <a href="http://home.mathematik.uni-freiburg.de/ziegler/skripte/modell1.pdf">Vorlesung &uuml;ber Modelltheorie</a>, online notes.</li>
+</ul>
  
-
 
 <h2>Übungsblätter</h2>
 
