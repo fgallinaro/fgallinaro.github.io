@@ -54,7 +54,7 @@ For the Studienleistung it will be sufficient to obtain at least 50% of the poin
 
 In this course the basics of geometric model theory will be discussed and concepts such as quantifier elimination and categoricity will be introduced.
 A theory has quantifier elimination if every formula is equivalent to a quantifier-free formula. For the theory of algebraically closed fields of fixed characteristic, this is equivalent to requiring that the projection of a Zariski-constructible set is again Zariski-constructible.
-A theory is called $\aleph_1$-categorical if all the models of cardinality $\aleph_1$ are isomorphic. A typical example is the theory of non-trivial $\mathbb{Q}$-vector spaces. The goal of the course is to understand the theorems of Baldwin-Lachlan and of Morley to characterize $\aleph_1$-categorical theories.
+A theory is called &#8501;<sub>1</sub>-categorical if all the models of cardinality &#8501;<sub>1</sub> are isomorphic. A typical example is the theory of non-trivial Q-vector spaces. The goal of the course is to understand the theorems of Baldwin-Lachlan and of Morley to characterize &#8501;<sub>1</sub>-categorical theories.
 
 <h2>Literature</h2>
 
