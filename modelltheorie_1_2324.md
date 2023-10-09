@@ -6,13 +6,6 @@
     <td>Time and Place: </td>
     <td>Tue-Thu 12-14, Hörsaal II (Albertstr. 23b)</td>
     </tr>
-<!--
-    <tr>
-      <td>ILIAS-Kurs Link:</td>
-      <td> <a href="https://ilias.uni-freiburg.de/ilias.php?ref_id=2281552&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=zf&baseClass=ilrepositorygui">ILIAS-Kurs</a></td>
-    </tr>
-    <tr><td></td><td></td></tr>
--->
     <tr>
       <td>Lecturer:</td>
       <td> Dr. Francesco Gallinaro</td>
@@ -24,12 +17,8 @@
       <td>Email:</td>
       <td>francesco.gallinaro@mathematik.uni-freiburg.de</td>
     </tr>
-    
-
-
   </tbody>
 </table>
-
 
 <h2>News</h2>
  
@@ -48,8 +37,11 @@ Notwendig sind:
 Pr&uuml;fungsleistungen im Modulhandbuch zu Ihrem Studiengang.</b>
 -->
 
-<h2>Studienleistung/Pr&uuml;fungsleistungn</h2>
+<h2>Studienleistung/Pr&uuml;fungsleistung</h2>
 
+Please refer to the notes on course and examination achievements in the Modulhanbuch.
+
+For the Studienleistung it will be sufficient to obtain at least 50% of the points available from the exercise sheets. For the Pr&uuml;fungsleistung it will be necessary to pass an oral examination, to acess which it is necessary to obtain at least 50% of the points available from the exercise sheets.
 
 <!--
 <h2>Anmeldung/Organisatorisches</h2>
