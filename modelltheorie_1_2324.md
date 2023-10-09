@@ -18,6 +18,7 @@
     <td>Email:</td>
     <td>francesco.gallinaro@mathematik.uni-freiburg.de</td>
     </tr>
+   
   </tbody>
 </table>
 
@@ -68,22 +69,6 @@ A theory is called $\aleph_1$-categorical if all the models of cardinality $\ale
 <h2>Übungsblätter</h2>
 
 The exercise sheets (in German) will be released weekly on this webpage.
-
-<table cellspacing="1" cellpadding="1" border="0" width="100%" align="center">
-  <tbody>
-    <tr>
-    <td>Sheet</td>
-    <td>Date </td>
-    <td>Deadline </td>
-    </tr>
-   <tr>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    </tr>
-   
-   </tbody>
-</table>
 
 
 <h2>Übungsgruppen</h2>
