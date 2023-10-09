@@ -1,21 +1,22 @@
  
 <h1> Model Theory </h1>
+
 <table cellspacing="1" cellpadding="1" border="0" width="100%" align="center">
   <tbody>
     <tr>
-    <td>Time and Place: </td>
+    <td>Time and Place:</td>
     <td>Tue-Thu 12-14, Hörsaal II (Albertstr. 23b)</td>
     </tr>
     <tr>
-      <td>Lecturer:</td>
-      <td> Dr. Francesco Gallinaro</td>
+    <td>Lecturer:</td>
+    <td> Dr. Francesco Gallinaro</td>
     </tr>
     <tr>
-      <td>Office Hours: </td>
-      <td>n. V. </td>
+    <td>Office Hours: </td>
+    <td>n. V. </td>
     <tr>
-      <td>Email:</td>
-      <td>francesco.gallinaro@mathematik.uni-freiburg.de</td>
+    <td>Email:</td>
+    <td>francesco.gallinaro@mathematik.uni-freiburg.de</td>
     </tr>
   </tbody>
 </table>
@@ -83,6 +84,8 @@ The exercise sheets (in German) will be released weekly on this webpage.
    
    </tbody>
 </table>
+
+
 <h2>Übungsgruppen</h2>
 
 
