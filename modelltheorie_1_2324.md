@@ -18,7 +18,6 @@
     <td>Email:</td>
     <td>francesco.gallinaro@mathematik.uni-freiburg.de</td>
     </tr>
-   
   </tbody>
 </table>
 
