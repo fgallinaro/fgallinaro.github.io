@@ -102,57 +102,57 @@ Auf dieser Webseite werden montags die Übungsaufgaben ver&ouml;ffentlicht. Die 
     <td>Abgabe </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt1_mt2.pdf"> Blatt 1</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt1_mt2.pdf"> Blatt 1</a> </td>
     <td> 24.04.2023</td>
     <td> 02.05.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt2_mt2.pdf"> Blatt 2</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt2_mt2.pdf"> Blatt 2</a> </td>
     <td> 01.05.2023</td>
     <td> 08.05.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt3_mt2.pdf"> Blatt 3</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt3_mt2.pdf"> Blatt 3</a> </td>
     <td> 08.05.2023</td>
     <td> 15.05.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt4_mt2.pdf"> Blatt 4</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt4_mt2.pdf"> Blatt 4</a> </td>
     <td> 15.05.2023</td>
     <td> 22.05.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt5_mt2.pdf"> Blatt 5</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt5_mt2.pdf"> Blatt 5</a> </td>
     <td> 22.05.2023</td>
     <td> 05.06.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt6_mt2.pdf"> Blatt 6</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt6_mt2.pdf"> Blatt 6</a> </td>
     <td> 05.06.2023</td>
     <td> 12.06.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt7_mt2.pdf"> Blatt 7</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt7_mt2.pdf"> Blatt 7</a> </td>
     <td> 12.06.2023</td>
     <td> 19.06.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt8_1_mt2.pdf"> Blatt 8</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt8_1_mt2.pdf"> Blatt 8</a> </td>
     <td> 19.06.2023</td>
     <td> 26.06.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt9_1.pdf"> Blatt 9 </a>(corrected version) </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt9_1.pdf"> Blatt 9 </a>(corrected version) </td>
     <td> 26.06.2023</td>
     <td> 03.07.2023 </td>
     </tr>
     <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt10_mt2_1.pdf"> Blatt 10</a> </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt10_mt2_1.pdf"> Blatt 10</a> </td>
     <td> 03.07.2023</td>
     <td> 10.07.2023 </td>
     </tr>
    <tr>
-    <td> <a href="https://fgallinaro.github.io/blatt11_mt2.pdf"> Blatt 11</a> (letztes Blatt) </td>
+    <td> <a href="https://fgallinaro.github.io/mt2_sose23/blatt11_mt2.pdf"> Blatt 11</a> (letztes Blatt) </td>
     <td> 10.07.2023</td>
     <td> 17.07.2023 </td>
     </tr>
