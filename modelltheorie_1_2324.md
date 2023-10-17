@@ -90,6 +90,8 @@ The exercise sheets (in German) will be released weekly on this webpage.
 
 <h2>Übungsgruppen</h2>
 
+The problem session (in German) will be delivered by Max Herwig on Thursdays from 4 to 6, in SR 218, Ernst-Zermelo-Str. 1.
+
 
 <br><br><br><br><br><br><br>
   
