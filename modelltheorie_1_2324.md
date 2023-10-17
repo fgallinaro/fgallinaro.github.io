@@ -8,7 +8,7 @@
     <td>Di & Do 12-14 Uhr, Hörsaal II (Albertstr. 23b)</td>
     </tr>
    <tr>
-      <td>Assistenz:</td>
+      <td>Dozent</td>
       <td><a href="https://fgallinaro.github.io/" rel="noopener" target="_blank"> Dr. Francesco Gallinaro</a></td>
     </tr>
     <tr>
