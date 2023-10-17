@@ -73,6 +73,20 @@ A theory is called &#8501;<sub>1</sub>-categorical if all the models of cardinal
 
 The exercise sheets (in German) will be released weekly on this webpage.
 
+<table cellspacing="1" cellpadding="1" border="0" width="100%" align="center">
+  <tbody>
+    <tr>
+    <td>Sheet</td>
+    <td>Released on</td>
+    <td>To be handed in</td>
+    </tr>
+    <tr>
+    <td><a href="https://fgallinaro.github.io/mt_wise2324/blatt0.pdf">Sheet 0</a></td>
+    <td>17.10.2023</td>
+    <td>24.10.2023</td>
+    </tr>
+</table>
+
 
 <h2>Übungsgruppen</h2>
 
