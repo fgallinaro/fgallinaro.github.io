@@ -12,7 +12,7 @@
       <td><a href="https://fgallinaro.github.io/" rel="noopener" target="_blank"> Dr. Francesco Gallinaro</a></td>
     </tr>
     <tr>
-      <td>Sprechstunde Dozent: </td>
+      <td>Sprechstunde Dozent </td>
       <td>n. V. </td>
     </tr>
     <tr>
