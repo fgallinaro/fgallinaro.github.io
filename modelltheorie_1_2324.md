@@ -70,7 +70,7 @@ A theory is called &#8501;<sub>1</sub>-categorical if all the models of cardinal
 
 <h2>Übungsgruppen</h2>
 
-The problem session (in German) will be delivered by Max Herwig on Thursdays from 4 to 6, in SR 218, Ernst-Zermelo-Str. 1.
+The problem sessions (in German) will be delivered by Max Herwig on Thursdays from 4 to 6, in SR 218, Ernst-Zermelo-Str. 1.
 
 <h2>Übungsblätter</h2>
 
