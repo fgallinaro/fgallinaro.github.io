@@ -26,7 +26,10 @@
 </table>
 
 <h2>News</h2>
- 
+
+ From Tuesday 7/11 the lecture will start at 12.
+
+ On Tuesday 14/11 and Thrusday 16/11 the lecture will take place in SR318, Ernst-Zermelo-Str. 1.
  
 <!--
 <h2>Exams</h2> 
