@@ -27,7 +27,7 @@
 
 <h2>News</h2>
 
- From Tuesday 7/11 the lecture will start at 12.
+ From Tuesday 7/11 the lecture starts at 12.
 
  On Tuesday 14/11 and Thrusday 16/11 the lecture will take place in SR318, Ernst-Zermelo-Str. 1.
  
@@ -102,7 +102,7 @@ The exercise sheets (in German) will be released weekly on this webpage.
      <td>7.11.2023</td>
     </tr>
      <tr>
-     <td><a href="https://fgallinaro.github.io/mt_wise2324/blatt3.pdf">Sheet 2</a></td>
+     <td><a href="https://fgallinaro.github.io/mt_wise2324/blatt3.pdf">Sheet 3</a></td>
      <td>7.11.2023</td>
      <td>14.11.2023</td>
     </tr>
