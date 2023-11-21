@@ -111,6 +111,11 @@ The exercise sheets (in German) will be released weekly on this webpage.
      <td>14.11.2023</td>
      <td>21.11.2023</td>
     </tr>
+    <tr>
+     <td><a href="https://fgallinaro.github.io/mt_wise2324/blatt5.pdf">Sheet 5</a></td>
+     <td>21.11.2023</td>
+     <td>28.11.2023</td>
+    </tr>
   </tbody>
 </table>
 
