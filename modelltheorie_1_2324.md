@@ -27,7 +27,7 @@
 
 <h2>News</h2>
 
- From Tuesday 7/11 the lecture starts at 12.
+Problem session number 8 will take place on Wednesday 20.12 in room 404. There will be no problem session on Thursday 21.12.
  
 <!--
 <h2>Exams</h2> 
