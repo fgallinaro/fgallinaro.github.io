@@ -129,6 +129,11 @@ The exercise sheets (in German) will be released weekly on this webpage.
      <td>12.12.2023</td>
      <td>19.12.2023</td>
     </tr>
+   <tr>
+     <td><a href="https://fgallinaro.github.io/mt_wise2324/blatt9.pdf">Sheet 9</a></td>
+     <td>19.12.2023</td>
+     <td>9.01.2024</td>
+    </tr>
   </tbody>
 </table>
 
