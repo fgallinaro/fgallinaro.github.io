@@ -23,7 +23,7 @@
 	
 </ul>
 <ul>
-	<li> "<a href="https://arxiv.org/abs/2303.12124">The Fundamental theorem of tropical differential algebra over nontrivially valued fields and the radius of convergence of nonarchimedean differential equations</a>" (with Stefano Mereta). We prove a version of the fundamental theorem of tropical geometry for tropical differential equations, showing that tropicalizing the set of solutions to a partial differential equations over a non-trivially valued field is the same as computing the solutions of the topicalized equation. Moreover, we develop parts of the theory of initial forms and of Berkovich analytification if this setting. This generalizes work of various authors, who had considered this problem for ODEs and/or over a field with trivial valuation. </li>
+	<li> "<a href="https://arxiv.org/abs/2303.12124">The Fundamental theorem of tropical differential algebra over nontrivially valued fields and the radius of convergence of nonarchimedean differential equations</a>" (with Stefano Mereta). We prove a version of the fundamental theorem of tropical geometry for tropical differential equations, showing that tropicalizing the set of solutions to a partial differential equations over a non-trivially valued field is the same as computing the solutions of the topicalized equation. Moreover, we develop parts of the theory of initial forms and of Berkovich analytification in this setting. This generalizes work of various authors, who had considered this problem for ODEs and/or over a field with trivial valuation. </li>
 </ul>
 </body>
 
