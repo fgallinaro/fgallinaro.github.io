@@ -26,8 +26,7 @@
 </table>
 
 <h2>News</h2>
-
-Problem session number 8 will take place on Wednesday 20.12 in room 404. There will be no problem session on Thursday 21.12.
+Provisional dates for the oral exams: 20-21-22 February 2024. If these dates are inconvenient for you, please let me know as soon as possible.
  
 <!--
 <h2>Exams</h2> 
@@ -47,7 +46,7 @@ Pr&uuml;fungsleistungen im Modulhandbuch zu Ihrem Studiengang.</b>
 
 Please refer to the notes on course and examination achievements in the Modulhanbuch.
 
-For the Studienleistung it will be sufficient to obtain at least 50% of the points available from the exercise sheets. For the Pr&uuml;fungsleistung it will be necessary to pass an oral examination, to acess which it is necessary to obtain at least 50% of the points available from the exercise sheets.
+For the Studienleistung it will be sufficient to obtain at least 50% of the points available from the exercise sheets. For the Pr&uuml;fungsleistung it will be necessary to pass an oral examination, to acess which it is necessary to obtain the Studienleistung.
 
 <!--
 <h2>Anmeldung/Organisatorisches</h2>
