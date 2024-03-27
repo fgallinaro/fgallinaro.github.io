@@ -2,16 +2,17 @@
 <html>
 <body>
 <h1> Teaching </h1>
-
-<h2> Current Teaching </h2>
-
-<p> In the Winter semester of 2023/24 I am teaching the course <a href="https://fgallinaro.github.io/modelltheorie_1_2324">Model theory</a>. Information on the course is on its webpage. </p>
 	
 <h2> Past Teaching </h2>
 
 <p> A list of my past teaching duties. </p>
 	
 <h3> Albert-Ludwigs-Universität Freiburg </h3>
+<h4> 2023/24 </h4>
+<h5> Winter semester </h5>
+<ul>
+	<li> <a href="https://fgallinaro.github.io/modelltheorie_1_2324">Model theory</a> (Lecturer) </li>
+</ul>
 <h4> 2022/23 </h4>
 <h5> Winter semester </h5>
 <ul>
