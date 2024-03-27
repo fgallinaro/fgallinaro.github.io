@@ -26,7 +26,7 @@
 </table>
 
 <h2>News</h2>
-Provisional dates for the oral exams: 20-21-22 February 2024. If these dates are inconvenient for you, please let me know as soon as possible.
+
  
 <!--
 <h2>Exams</h2> 
