@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td>E-mail</td>
-      <td>francesco.gallinaro@mathematik.uni-freiburg.de</td>
+      <td>francesco.gallinaro(at)mathematik(dot)uni-freiburg(dot)de</td>
     </tr>
     
 
