@@ -26,6 +26,10 @@
 <ul>
 	<li> "<a href="https://arxiv.org/abs/2303.12124">The Fundamental theorem of tropical differential algebra over nontrivially valued fields and the radius of convergence of nonarchimedean differential equations</a>" (with Stefano Mereta, submitted). We prove a version of the fundamental theorem of tropical geometry for tropical differential equations, showing that tropicalizing the set of solutions to a partial differential equations over a non-trivially valued field is the same as computing the solutions of the topicalized equation. Moreover, we develop parts of the theory of initial forms and of Berkovich analytification in this setting. This generalizes work of various authors, who had considered this problem for ODEs and/or over a field with trivial valuation. </li>
 </ul>
+
+<ul>
+	<li> "<a href="https://arxiv.org/abs/2409.12860">Exponential sums equations and the Exponential Closedness conjecture</a>" (with Vahagn Aslanyan). An expository paper in which we prove a simple case of the main theorem from "Exponential Sums Equations and Tropical Geometry" using only very basic complex analysis. In the second part we give a short survey on the EAC Conjecture. </li>
+</ul>
 </body>
 
 <h2> PhD Thesis </h2>
