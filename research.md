@@ -25,5 +25,5 @@
 
 <h2> PhD Thesis </h2>
 
-<p>I wrote my PhD thesis, "<a href="https://etheses.whiterose.ac.uk/31077/">Around Exponential-Algebraic Closedness</a>", between 2018 and 2022 at the <a href="https://www.leeds.ac.uk/"> University of Leeds</a>, under the supervision of <a href="https://eps.leeds.ac.uk/maths/staff/4058/dr-vincenzo-l-mantova">Vincenzo Mantova</a>. It contains roughly the same things as papers 1, 2, and 5 listed above (although I would recommend looking at the papers), together with a general introduction to the problem and some of the further directions of research that I cared about as of April 2022.</p>
+<p>I wrote my PhD thesis, "<a href="https://etheses.whiterose.ac.uk/31077/">Around Exponential-Algebraic Closedness</a>", between 2018 and 2022 at the <a href="https://www.leeds.ac.uk/"> University of Leeds</a>, under the supervision of <a href="https://eps.leeds.ac.uk/maths/staff/4058/dr-vincenzo-l-mantova">Vincenzo Mantova</a>. It is about, well, Exponential-Algebraic Closedness, and it contains roughly the same things as papers 1, 3, and 5 listed above (although I would recommend looking at the papers), together with a general introduction to the problem and some of the further directions of research that I cared about as of April 2022.</p>
 </html>
