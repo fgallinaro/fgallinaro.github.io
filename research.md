@@ -19,8 +19,9 @@
 	<li> "<a href="https://link.springer.com/article/10.1007/s11856-025-2778-2">Solving systems of equations of raising-to-powers type</a>", Isr. J. Math., published online 2025. </li>
 	<li> "<a href="https://arxiv.org/abs/2303.12124">The Fundamental theorem of tropical differential algebra over nontrivially valued fields and the radius of convergence of nonarchimedean differential equations</a>" (with Stefano Mereta).  </li>
 	<li> "<a href="https://arxiv.org/abs/2409.12860">Exponential sums equations and the Exponential Closedness conjecture</a>" (with Vahagn Aslanyan).  </li>
-	<li> "<a href="https://arxiv.org/abs/2503.10473">Projective curves and weak second-order logic</a>" (with Alessandro Berarducci), submitted.  </li>
-	<li> "<a href="https://arxiv.org/abs/2506.07550">Likely intersections in powers of the multiplicative group</a>" (with Gabriel Dill), submitted. </li>
+	<li> "<a href="https://arxiv.org/abs/2503.10473">Projective curves and weak second-order logic</a>" (with Alessandro Berarducci).  </li>
+	<li> "<a href="https://arxiv.org/abs/2506.07550">Likely intersections in powers of the multiplicative group</a>" (with Gabriel Dill). </li>
+	<li> "<a href="https://arxiv.org/abs/2510.06021">Automorphisms of valued fields: amalgamation and existential closedness</a>" (with Jan Dobrowolski and Rosario Mennuni). </li>
 </ol>
 </body>
 
