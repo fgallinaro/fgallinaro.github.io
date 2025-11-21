@@ -9,6 +9,9 @@ Le lezioni si terranno il <b>mercoledì dalle 16 alle 18</b> e il <b>venerdì da
 <li> Lezione 1: Linguaggi, formule, teorie.</li>
 <li> Lezione 2: Teoremi di Tarski-Vaught e Löwenheim-Skolem </li>
 <li> Lezione 3: Eliminazione dei quantificatori </li>
+<li> Lezione 4: Spazi di tipi.</li>
+<li> Lezione 5: Teoria dei modelli dei campi algebricamente chiusi: completezza fissata la caratteristica, eliminazione dei quantificatori, dimostrazione del Nullstellensatz </li>
+<li> Lezione 6: Teoria dei modelli dei campi algebricamente chiusi: Ax-Grothendieck, geometria di insiemi definibili e tipi in ACF </li>
 
 </ul>
 
