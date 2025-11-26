@@ -3,6 +3,8 @@
 
 Le lezioni si terranno il <b>mercoledì dalle 16 alle 18</b> e il <b>venerdì dalle 11 alle 13</b>, in Saletta Riunioni.
 
+La lezione di <b>venerdì 5 dicembre</b> sarà in <b>saletta riunioni piano terra</b>.
+
 <h2> Lista degli argomenti </h2>
 
 <ul> 
