@@ -5,7 +5,7 @@ Le lezioni si terranno il <b>mercoledì dalle 16 alle 18</b> e il <b>venerdì da
 
 <b>Aggiornamento del 3/12</b>:
 Data <a href="https://drive.proton.me/urls/5GQFVMMJYC?fbclid=PAVERFWAOaQp9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafWBJoY_VDPOGUAEl1pFXCDJ1TDqYjJArRGfOfpZDr6iu7o8B2hPwGHt_eSyw_aem_5fXckJrXNnZML5ReJacxzg#BlVYUv4c8oZn">l'occupazione del Dipartimento</a> (che sostengo: sono d'accordo con <a href="https://poisson.phc.dm.unipi.it/~mennuni/invarianza_sottospazi.pdf">quanto scritto a riguardo</a> da Rosario Mennuni, che ringrazio) le prossime lezioni si terranno in aule diverse.
-La lezione di <b>mercoledì 3 dicembre</b> sarà in <b>Aula Magna Pontecorvo</b>.
+La lezione di <b>mercoledì 3 dicembre</b> sarà in <b>Aula PS4</b>.
 La lezione di <b>venerdì 5 dicembre</b> sarà nel Laboratorio <b>H-LAB</b>.
 
 <h2> Lista degli argomenti </h2>
@@ -18,7 +18,8 @@ La lezione di <b>venerdì 5 dicembre</b> sarà nel Laboratorio <b>H-LAB</b>.
 <li> Lezione 5: Teoria dei modelli dei campi algebricamente chiusi: completezza fissata la caratteristica, eliminazione dei quantificatori, dimostrazione del Nullstellensatz </li>
 <li> Lezione 6: Teoria dei modelli dei campi algebricamente chiusi: Ax-Grothendieck, geometria di insiemi definibili e tipi in ACF </li>
 <li> Lezione 7: Campi formalmente reali, campi reali chiusi </li>
-
+<li> Lezione 8: Eliminazione dei quantificatori per campi reali chiusi, definizione ed esempi di strutture o-minimali </li>
+<li> Lezione 9: Connessione definibile e teorema di monotonia in strutture o-minimali </li>
 </ul>
 
 <h2> Course description </h2>
