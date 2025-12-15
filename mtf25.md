@@ -3,10 +3,8 @@
 
 Le lezioni si terranno il <b>mercoledì dalle 16 alle 18</b> e il <b>venerdì dalle 11 alle 13</b>, in Saletta Riunioni.
 
-<b>Aggiornamento del 3/12</b>:
-Data <a href="https://drive.proton.me/urls/5GQFVMMJYC?fbclid=PAVERFWAOaQp9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafWBJoY_VDPOGUAEl1pFXCDJ1TDqYjJArRGfOfpZDr6iu7o8B2hPwGHt_eSyw_aem_5fXckJrXNnZML5ReJacxzg#BlVYUv4c8oZn">l'occupazione del Dipartimento</a> (che sostengo: sono d'accordo con <a href="https://poisson.phc.dm.unipi.it/~mennuni/invarianza_sottospazi.pdf">quanto scritto a riguardo</a> da Rosario Mennuni, che ringrazio) le prossime lezioni si terranno in aule diverse.
-La lezione di <b>mercoledì 3 dicembre</b> sarà in <b>Aula PS4</b>.
-La lezione di <b>venerdì 5 dicembre</b> sarà nel Laboratorio <b>H-LAB</b>.
+<b>Aggiornamento del 15/12</b>:
+La lezione di <b>venerdì 9 gennaio</b> sarà in <b>aula riunioni</b>.
 
 <h2> Lista degli argomenti </h2>
 
