@@ -21,7 +21,7 @@
 	<li> "<a href="https://arxiv.org/abs/2409.12860">Exponential sums equations and the Exponential Closedness conjecture</a>" (with Vahagn Aslanyan).  </li>
 	<li> "<a href="https://arxiv.org/abs/2503.10473">Projective curves and weak second-order logic</a>" (with Alessandro Berarducci), submitted.  </li>
 	<li> "<a href="https://arxiv.org/abs/2506.07550">Likely intersections in powers of the multiplicative group</a>" (with Gabriel Dill), submitted. </li>
-	<li> "<a href="https://arxiv.org/abs/2510.06021">Automorphisms of valued fields: amalgamation and existential closedness</a>" (with Jan Dobrowolski and Rosario Mennuni). </li>
+	<li> "<a href="https://arxiv.org/abs/2510.06021">Automorphisms of valued fields: amalgamation and existential closedness</a>" (with Jan Dobrowolski and Rosario Mennuni), submitted. </li>
 </ol>
 </body>
 
