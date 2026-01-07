@@ -18,6 +18,8 @@ La lezione di <b>venerdì 9 gennaio</b> sarà in <b>aula riunioni</b>.
 <li> Lezione 7: Campi formalmente reali, campi reali chiusi </li>
 <li> Lezione 8: Eliminazione dei quantificatori per campi reali chiusi, definizione ed esempi di strutture o-minimali </li>
 <li> Lezione 9: Connessione definibile e teorema di monotonia in strutture o-minimali </li>
+ <li> Lezione 10: Teorema di decomposizione in celle in strutture o-minimali </li>
+ <li> Lezione 11: Teorema di Wilkie sui punti interi nelle curve trascendenti definibili in strutture o-minimali </li>
 </ul>
 
 <h2> Course description </h2>
