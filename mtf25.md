@@ -20,6 +20,10 @@ La lezione di <b>venerdì 9 gennaio</b> sarà in <b>aula riunioni</b>.
 <li> Lezione 9: Connessione definibile e teorema di monotonia in strutture o-minimali </li>
  <li> Lezione 10: Teorema di decomposizione in celle in strutture o-minimali </li>
  <li> Lezione 11: Teorema di Wilkie sui punti interi nelle curve trascendenti definibili in strutture o-minimali </li>
+ <li> Lezione 12: Campi differenziali </li>
+<li> Lezione 13: Eliminazione dei quantificatori per campi differenzialmente chiusi </li>
+ <li> Lezione 14: Preliminari per il teorema di Ax: lo spazio dei differenziali formali </li>
+ <li> Lezione 15: Dimostrazione del teorema di Ax</li>
 </ul>
 
 <h2> Course description </h2>
