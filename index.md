@@ -11,7 +11,7 @@
 "What a man of the people!<br>
 Progress like this was due!"<br>
 Oh, Mister Coyote <br>
-You'd better move"</i></p>
+You'd better move"</i>
 
 <p>Hello! I am Francesco Gallinaro, a postdoc (Junior Visiting Position) in the Centro di Ricerca Matematica "Ennio De Giorgi", Scuola Normale Superiore, Pisa. I work mostly on the model theory of fields. My contact details are below.</p>
 
