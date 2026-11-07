@@ -3,12 +3,14 @@
 
 
 
-<p align="right"/><i>""This is the most beautiful place on planet Earth</br>Everybody has to see it!</br>
-  We'll make it so easy for them</br>
-  Put a road straight down through it!"</br>
-"What a man of the people!</br>
-Progress like this was due!"</br>
-Oh, Mister Coyote </br>
+<p align="right"/><i>
+  ""This is the most beautiful place on planet Earth<br>
+  Everybody has to see it!<br>
+  We'll make it so easy for them<br>
+  Put a road straight down through it!<br>
+"What a man of the people!<br>
+Progress like this was due!"<br>
+Oh, Mister Coyote <br>
 You'd better move"</i></p>
 
 <p>Hello! I am Francesco Gallinaro, a postdoc (Junior Visiting Position) in the Centro di Ricerca Matematica "Ennio De Giorgi", Scuola Normale Superiore, Pisa. I work mostly on the model theory of fields. My contact details are below.</p>
