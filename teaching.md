@@ -2,17 +2,20 @@
 <html>
 <body>
 <h1> Teaching </h1>
-<h2> Current teaching </h2>
 
-<h3> Università di Pisa </h3>
 
-<ul> 
-	<li><a href="https://fgallinaro.github.io/mtf25">Model theory of fields</a> (Lecturer) </li>
-</ul>
 	
 <h2> Past teaching </h2>
 
 <p> A list of my past teaching duties. </p>
+
+<h3> Università di Pisa </h3>
+
+<ul> 
+	<h4> 2023/24 </h4>
+	<h5> First semester </h5>
+	<li><a href="https://fgallinaro.github.io/mtf25">Model theory of fields</a> (Lecturer) </li>
+</ul>
 	
 <h3> Albert-Ludwigs-Universität Freiburg </h3>
 <h4> 2023/24 </h4>
